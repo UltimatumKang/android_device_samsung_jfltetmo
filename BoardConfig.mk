@@ -33,4 +33,4 @@ TARGET_OTA_ASSERT_DEVICE := jfltetmo
 TARGET_KERNEL_CONFIG         := jf_tmo_defconfig
 TARGET_KERNEL_VARIANT_CONFIG := jf_defconfig
 TARGET_KERNEL_SELINUX_CONFIG := jfselinux_defconfig
-
+VARIANT_DEFCONFIG := jf_defconfig
